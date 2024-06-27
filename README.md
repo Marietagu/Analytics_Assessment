@@ -11,6 +11,9 @@ This assessment aims to analyze Psycho Bunny's 2022 and 2023 product sales patte
 - **Data:** Contains customer data files that are ingested daily.
 - **Replies:** Answers to questions and diagrams.
 
+### Transactions
+- **Data:** Contains customer data files that are ingested daily.
+- **Replies:** Answers to questions and diagrams.
 ## P2: Exploratory Data Analysis (EDA) and Presentation
 ### EDA
 - **Data:** 2022-2023 sales data.
